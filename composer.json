@@ -9,6 +9,7 @@
         "php-http/guzzle6-adapter": "^1.1",
         "php-http/httplug-bundle": "^1.10",
         "sensio/framework-extra-bundle": "^5.2",
+        "symfony/asset": "^4.1",
         "symfony/console": "^4.1",
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^4.1",
